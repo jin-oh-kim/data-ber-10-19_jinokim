@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*.pyc
+globalterrorismdb_0718dist.csv
+.DS_Store
