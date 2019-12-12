@@ -1,9 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*Laura Klopfleisch, Nadav Smith and Jin Oh Kim*
-
 # Fear & Bikes
+*Laura Klopfleisch, Nadav Smith and Jin Oh Kim*
 A practice on data cleaning, curation and merging of datasets using Python, Pandas and NumPy.
 
 ## Working question and framing
